@@ -9,14 +9,14 @@
 </div>
 
 
-# <span style="color:#FFA500;">Общее описание решения
+# <font style="color:#FFA500;">Общее описание решения</font>
 
 **GEOMETRIC_LIB** - это простая и эффективная библиотека на Python, предназначенная для вычисления площадей и периметров таких геометрических фигур как круг и квадрат
 
 
 
 
-# <span style="color:#FFA500;">Доступные функции
+# <font style="color:#FFA500;">Доступные функции</font>
 
 <div align="center">
 
@@ -27,6 +27,6 @@
 
 </div>
 
-## <span style="color:#FFA500;">- Формулы которые используются в функциях находятся в файле [Math_formulas.md](Math_formulas.md)
+## <font style="color:#FFA500;">- Формулы которые используются в функциях находятся в файле [Math_formulas.md](Math_formulas.md)</font>
 
-## <span style="color:#FFA500;">- Подробное описание функций и примеры их работы находяться в файле [Function_descriptions.md](Function_descriptions.md)
+## <font style="color:#FFA500;">- Подробное описание функций и примеры их работы находяться в файле [Function_descriptions.md](Function_descriptions.md)</font>
