@@ -34,3 +34,5 @@
 ## <span  style="color:#FFA500;">- Подробное описание функций и примеры их работы находяться в файле [Function_descriptions.md](Function_descriptions.md)
 
 ## <span  style="color:#FFA500;">- История коммитов находиться в файле [History_Commits.md](History_Commits.md)
+
+
