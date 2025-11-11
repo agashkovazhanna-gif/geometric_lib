@@ -35,4 +35,6 @@
 
 ## <span  style="color:#FFA500;">- История коммитов находиться в файле [History_Commits.md](History_Commits.md)
 
+## <span  style="color:#FFA500;">- Документация тестирования находиться в файле [Tests.md](docs/Tests.md)
+
 
