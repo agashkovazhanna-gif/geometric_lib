@@ -1,10 +1,40 @@
-# Math formulas
-## Area
-- Circle: S = πR²
-- Rectangle: S = ab
-- Square: S = a²
 
-## Perimeter
-- Circle: P = 2πR
-- Rectangle: P = 2a + 2b
-- Square: P = 4a
+<h1 align="center" style="color:#FF0000 ; font-family: 'Arial', sans-serif; text-shadow: 2px 2px 0 #f39c12;">
+  🟡 GEOMETRIC_LIB 🟨
+</h1>
+
+<div align="center">
+  <img src="https://avatars.mds.yandex.net/i?id=706978aaaf9b5c7be455715518fb16f7_l-8392873-images-thumbs&n=13" 
+       width="500">
+</div>
+
+
+# <span style="color:#FFA500;">Общее описание решения
+
+**GEOMETRIC_LIB** - это простая и эффективная библиотека на Python, предназначенная для вычисления площадей и периметров таких геометрических фигур как круг, квадрат, прямоугольник и треугольник
+
+
+
+
+# <span style="color:#FFA500;">Доступные функции
+
+<div align="center">
+
+| **Фигура** | **Функции** | **Файл** |
+|--------|---------|--------|
+| 🟡 Круг | `area(r)`, `perimeter(r)` | `circle.py` |
+| 🟨 Квадрат | `area(a)`, `perimeter(a)` | `square.py` |
+| 📒 Прямоугольник | `area(a,b)`, `perimeter(a,b)` | `rectangle.py` |
+| 📐 Треугольник | `area(a,h)`, `perimeter(a,b,c)` | `triangle.py` |
+
+</div>
+
+## <span style="color:#FFA500;">- Формулы которые используются в функциях находятся в файле [Math_formulas.md](Math_formulas.md)
+
+## <span  style="color:#FFA500;">- Подробное описание функций и примеры их работы находяться в файле [Function_descriptions.md](Function_descriptions.md)
+
+## <span  style="color:#FFA500;">- История коммитов находиться в файле [History_Commits.md](History_Commits.md)
+
+## <span  style="color:#FFA500;">- Документация тестирования находиться в файле [Tests.md](docs/Tests.md)
+
+
