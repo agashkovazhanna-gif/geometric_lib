@@ -42,6 +42,6 @@ jobs:
           
       - name: Tests completed
         run: |
-          echo "✅ Unit tests passed on ${{ matrix.os }}"
+          echo "Unit tests passed on ${{ matrix.os }}"
 
   
