@@ -8,6 +8,9 @@ def area(a):
         Возвращаемое значение:
             area (float): дробное число, равное площади данного квадрата
     '''
+    if a <= 0:
+        return False
+    
     return a * a
 
 
@@ -21,4 +24,7 @@ def perimeter(a):
         Возвращаемое значение:
             perimeter (float): дробное число, равное периметру данного квадрата
     '''
+    if a <= 0:
+        return False
+    
     return 4 * a

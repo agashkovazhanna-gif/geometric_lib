@@ -8,6 +8,9 @@ def area(a,b):
         Возвращаемое значение:
             area (float): дробное число, равное площади данного прямоугольника
     '''
+    if a <= 0 or b <= 0:
+        return False
+    
     return a * b
 
 def perimeter(a,b):
@@ -20,5 +23,8 @@ def perimeter(a,b):
         Возвращаемое значение:
             perimeter (float): дробное число, равное периметру данного прямоугольника
     '''
+    if a <= 0 or b <= 0:
+        return False
+    
     return (a + b)*2
 
