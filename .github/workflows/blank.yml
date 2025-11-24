@@ -4,9 +4,9 @@ name: CI
 on:
 
   push:
-    branches: [ "main", "new_features_504833" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "main",  "new_features_504833" ]
+    branches: [ "main" ]
 
   workflow_dispatch:
 
